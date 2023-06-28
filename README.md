@@ -28,6 +28,6 @@ From then on, my interest in the subject only grew, and when I entered college I
 # 📊 GitHub Stats
 <div>
   <a href="https://github.com/GabrielHR0sa">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=GabrielHR0sa&show_icons=true&theme=dracula&include_all_commits=false&count_private=false"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHR0sa&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=GabrielHR0sa&show_icons=true&theme=holi&include_all_commits=false&count_private=false"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHR0sa&layout=compact&langs_count=16&theme=holi"/>
 </div>
