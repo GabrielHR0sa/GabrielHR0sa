@@ -7,7 +7,7 @@ I started studying programming in 2021 through Etec in Ibitinga, and I fell in l
 # 🚀 Knowledge
 
 Studying Internet Systems, I learned several contents about web development. Languages ​​like Html, Css, JavaScript, PHP, MySql were my learning base.<br>
-From then on, my interest in the subject only grew, and when I entered college I was able to learn languages ​​such as C++, C#, in addition to reviewing some of which I already knew. I have knowledge of the Front-End part and I am currently studying the Back-End part focused on Java and SpringBoot
+From then on, my interest in the subject only grew, and when I entered college I was able to learn languages ​​such as C++, C#, in addition to reviewing some of which I already knew. I am currently studying the Front End part, focused on Dart and Flutter.
 
 # 💻 Tech Stack
 
